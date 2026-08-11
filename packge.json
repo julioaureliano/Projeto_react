@@ -1,0 +1,24 @@
+{
+  "name": "react-vite-etec-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/giovannitecads/react-vite-etec-projeto#readme",
+  "bugs": {
+    "url": "https://github.com/giovannitecads/react-vite-etec-projeto/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannitecads/react-vite-etec-projeto.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "vite": "^8.2.0"
+  }
+}
